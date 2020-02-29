@@ -1,5 +1,7 @@
 # Gatsby + Cosmic JS
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a1a3842-bef8-4283-b745-0413d93dabcc/deploy-status)](https://app.netlify.com/sites/happy-mayer-9e5c22/deploys)
+
 ![gatsby-blog-cosmicjs](https://cdn.cosmicjs.com/fe5196f0-42c2-11ea-8d10-df553329919a-gatsby-blog-cosmic.png "The index page of the starter blog")
 
 > This repo contains an example blog website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Cosmic JS](https://www.cosmicjs.com).
